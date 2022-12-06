@@ -10,3 +10,5 @@
 #### <li>Data Modeling - Gempar</li>
 #### <li>Evaluasi - Satria, Gempar</li>
 #### Link Dataset - https://www.kaggle.com/datasets/sshikamaru/fruit-recognition
+#### Link Model - https://drive.google.com/file/d/12N0bVPwk1CvCFFJp2TjhcPX0tz2XqDiB/view?usp=share_link
+#### Keterangan : Karena file model terlalu besar jadi kami memberikan link google drive
